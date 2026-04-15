@@ -26,3 +26,9 @@ SQL
 Power BI
 
 DAX
+
+![Overview page](screenshots/Overview.png)
+
+![Attrition page](screenshots/AttritionPage.png)
+
+![Employee page](screenshots/EmployeePage.png)
